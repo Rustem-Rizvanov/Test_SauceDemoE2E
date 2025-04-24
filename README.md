@@ -10,7 +10,7 @@ This project contains automated end-to-end (E2E) tests for https://www.saucedemo
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd saucedemo-tests
+   cd <project>
    ```
 2. Install dependencies:
    ```bash
