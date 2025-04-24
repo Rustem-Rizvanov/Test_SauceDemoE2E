@@ -1,0 +1,12 @@
+{
+  "name": "saucedemo-tests",
+  "version": "1.0.0",
+  "description": "E2E tests for SauceDemo",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@playwright/test": "^1.36.0"
+  }
+}
